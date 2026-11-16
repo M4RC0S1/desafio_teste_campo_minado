@@ -1,0 +1,11 @@
+{
+  "name": "campo-minado",
+  "version": "1.0.0",
+  "description": "Casos de teste para Campo Minado (tabuleiro 18 x 14 com 40 bombas)",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
